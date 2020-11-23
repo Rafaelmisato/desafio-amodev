@@ -8,4 +8,4 @@
 
 - Tempo total 4h 25min
 
-Obs. A api estava sem imagens acessíveis, então eu fiz uma condição para que se tiver uma imagem, mostrar, caso não, mmostar um placeholder.
+Obs. A api estava sem imagens acessíveis, então eu fiz uma condição para que se tiver uma imagem, mostrar, caso não, mostar um placeholder.
